@@ -1,4 +1,3 @@
-# https://github.com/eclypsium/revoked_firmware_updates_spectre
 List of the firmware updates revoked by vendors, suspicion of unstable Spectre2 fixes. 
 
 
