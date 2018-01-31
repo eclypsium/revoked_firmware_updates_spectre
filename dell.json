@@ -1,0 +1,1472 @@
+[92m [
+  {
+    "chengming-3977-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/chengming-3977-desktop/drivers", 
+      "current": [
+        "1.2.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04505755M/1/ChengMing_3977_1.2.0.exe"
+      ], 
+      "revoked": [
+        "1.3.2", 
+        "2017-12-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716987M/1/ChengMing_3977_1.3.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3653-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/vostro-3653-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "chengming-3967-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/chengming-3967-desktop/drivers", 
+      "current": [
+        "1.1.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04505735M/1/ChengMing_3967_1.1.0.exe"
+      ], 
+      "revoked": [
+        "1.2.2", 
+        "2017-12-19T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04701326M/1/ChengMing_3967_1.2.2.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-7920r-workstation": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/precision-7920r-workstation/drivers", 
+      "current": [
+        "1.2.11", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04610506M/2/BIOS_79GKV_LN_1.2.11_01.BIN.sign"
+      ], 
+      "revoked": [
+        "1.2.71", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706591M/4/BIOS_MDR7V_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "inspiron-3650-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/inspiron-3650-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998865M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737662M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3650-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/vostro-3650-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-3250-small-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/inspiron-3250-small-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998865M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737662M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-xlr730": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlr730/drivers", 
+      "current": [
+        "2.5.5 ,2.5.5", 
+        "2017-11-15T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04490194M/1/BIOS_Y4Y95_WN32_2.5.5.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706292M/5/BIOS_78R68_WN32_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r740-xl": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r740-xl/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-20T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04610504M/2/BIOS_79GKV_WN64_1.2.11_01.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706591M/4/BIOS_MDR7V_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t640-xl": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t640-xl/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04614266M/1/BIOS_T21X5_WN64_1.2.11.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707544M/4/BIOS_6H61W_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-xlr330": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlr330/drivers", 
+      "current": [
+        "2.3.2 ,2.3.2", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04665233M/3/BIOS_832M2_WN32_2.3.2_02.EXE"
+      ], 
+      "revoked": [
+        "2.4.1 ,2.4.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716268M/2/BIOS_GK72X_WN32_2.4.1.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t330": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t330/drivers", 
+      "current": [
+        "2.3.2 ,2.3.2", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04665240M/3/BIOS_832M2_WN64_2.3.2_02.EXE"
+      ], 
+      "revoked": [
+        "2.4.1 ,2.4.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716275M/2/BIOS_GK72X_WN64_2.4.1.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t430": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t430/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636803M/2/BIOS_1KYYX_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714785M/2/BIOS_W8YFD_WN64_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r830": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r830/drivers", 
+      "current": [
+        "1.6.0 ,1.6.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636755M/2/BIOS_MRFGP_WN64_1.6.0.EXE"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714877M/3/BIOS_JTCJJ_WN64_1.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r730xd": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r730xd/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04667062M/1/BIOS_KGTJ5_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706285M/5/BIOS_78R68_WN64_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "inspiron-17-5770-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-17-5770-laptop/drivers", 
+      "current": [
+        "1.0.6 ,1.0.6", 
+        "2017-11-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04643899M/1/Inspiron5570_5770_106.exe"
+      ], 
+      "revoked": [
+        "1.0.9 ,1.0.9", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737244M/1/Inspiron5570_5770_109.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-13-5370-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-13-5370-laptop/drivers", 
+      "current": [
+        "1.2.1 ,1.2.1", 
+        "2017-12-07T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679125M/1/Inspiron5370_Vostro5370_5471_BIOS_v1_2_1_x64.exe"
+      ], 
+      "revoked": [
+        "1.3.1 ,1.3.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737383M/1/Inspiron5370_Vostro5370_5471_BIOS_v1_3_1_x64.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-xlt7920": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlt7920/drivers", 
+      "current": [
+        "1.1.5 ,1.1.5", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04669577M/1/7X20T_1.1.5.exe"
+      ], 
+      "revoked": [
+        "1.2.2 ,1.2.2", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04704051M/1/7X20T_1.2.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3250-small-desktop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-3250-small-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2 ,3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-17-7778-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-17-7778-2-in-1-laptop/drivers", 
+      "current": [
+        "1.14.0 ,1.14.0", 
+        "2017-11-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04546489M/1/Inspiron_5368_7368_5568_7569_7778_1.14.0.exe"
+      ], 
+      "revoked": [
+        "1.15.2 ,1.15.2", 
+        "2017-12-27T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707367M/1/Inspiron_5368_7368_5568_7569_7778_1.15.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-7577-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-7577-laptop/drivers", 
+      "current": [
+        "1.2.0 ,1.2.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04641299M/1/Insprion_7577_Vostro_7570_1.2.0.exe"
+      ], 
+      "revoked": [
+        "1.3.2 ,1.3.2", 
+        "2018-01-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04730696M/1/Insprion_7577_Vostro_7570_1.3.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-7572-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-7572-laptop/drivers", 
+      "current": [
+        "1.0.7 ,1.0.7", 
+        "2017-11-16T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04643147M/1/Inspiron_7472_7572_1.0.7.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2018-01-09T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04736831M/1/Inspiron_7472_7572_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-15-7520-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/precision-15-7520-laptop/drivers", 
+      "current": [
+        "1.8.4 ,1.8.4", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04701306M/1/Precision_7x20_1.8.4.exe"
+      ], 
+      "revoked": [
+        "1.9.0 ,1.9.0", 
+        "2017-12-25T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718232M/1/Precision_7x20_1.9.0.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-m5510-workstation": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/precision-m5510-workstation/drivers", 
+      "current": [
+        "1.5.1 ,1.5.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04604692M/1/Precision_5510_1.5.1.exe"
+      ], 
+      "revoked": [
+        "1.6.1 ,1.6.1", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717531M/1/Precision_5510_1.6.1.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-3567-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-3567-laptop/drivers", 
+      "current": [
+        "2.1.2 ,2.1.2", 
+        "2017-12-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04650310M/1/Inspiron_3467_3567_2.1.2.exe"
+      ], 
+      "revoked": [
+        "2.1.3 ,2.1.3", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718179M/1/Inspiron_3467_3567_2.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-14-3476-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-14-3476-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-15T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04683644M/1/Vostro_3478_3578_Inspiron_3476_3576_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2018-01-18T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04723015M/1/Vostro_3478_3578_Inspiron_3476_3576_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7490-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7490-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-03T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04589338M/1/Latitude_7x90_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.2.6 ,1.2.6", 
+        "2018-01-09T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04753926M/1/Latitude_7x90_1.2.6.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7480-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7480-laptop/drivers", 
+      "current": [
+        "1.7.3 ,1.7.3", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04651314M/1/Latitude_7x80_1.7.3.exe"
+      ], 
+      "revoked": [
+        "1.8.1 ,1.8.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718492M/1/Latitude_7x80_1.8.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-7389-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-7389-2-in-1-laptop/drivers", 
+      "current": [
+        "1.9.1 ,1.9.1", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04671578M/1/Latitude_7389_1.9.1.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718985M/1/Latitude_7389_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7414-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7414-laptop/drivers", 
+      "current": [
+        "1.14.0 ,1.14.0", 
+        "2017-10-31T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04593057M/1/Latitude_7414_7214_5414_Rugged_1.14.0.exe"
+      ], 
+      "revoked": [
+        "1.15.0 ,1.15.0", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707797M/1/Latitude_7414_7214_5414_Rugged_1.15.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-7390-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-7390-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04690149M/1/Latitude_7390_2in1_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2018-01-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04758300M/1/Latitude_7390_2in1_1.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-7285-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-7285-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.3 ,1.0.3", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04358089M/1/Latitude_7285_1.0.3.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04710171M/1/Latitude_7285_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-7212-tablet": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-7212-tablet/drivers", 
+      "current": [
+        "1.5.0 ,1.5.0", 
+        "2017-12-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04660118M/1/Latitude_7212_RuggedTablet_1.5.0.exe"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04739344M/1/Latitude_7212_RuggedTablet_1.7.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-15-5580-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-15-5580-laptop/drivers", 
+      "current": [
+        "1.7.5 ,1.7.5", 
+        "2017-12-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04653804M/1/Latitude_5X80_Precision_3520_1.7.5.exe"
+      ], 
+      "revoked": [
+        "1.8.1 ,1.8.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718730M/1/Latitude_5X80_Precision_3520_1.8.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-5289-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-5289-2-in-1-laptop/drivers", 
+      "current": [
+        "1.9.1 ,1.9.1", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04671568M/1/Latitude_5289_1.9.1.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718963M/1/Latitude_5289_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3570-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3570-laptop/drivers", 
+      "current": [
+        "1.9.0 ,1.9.0", 
+        "2017-11-16T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04651290M/1/Latitude_3479_3570_1.9.0.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737349M/1/Latitude_3470_3570_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3560-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3560-laptop/drivers", 
+      "current": [
+        "A11 ,A11", 
+        "2017-11-30T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679473M/1/Latitude_3460_3560_A11.exe"
+      ], 
+      "revoked": [
+        "A12 ,A12", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717437M/1/Latitude_3460_3560_A12.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3340-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3340-laptop/drivers", 
+      "current": [
+        "A14 ,A14", 
+        "2017-12-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04681280M/1/3340A14.exe"
+      ], 
+      "revoked": [
+        "A15 ,A15", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04720226M/1/3340A15.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3350-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3350-laptop/drivers", 
+      "current": [
+        "A11 ,A11", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679260M/1/3350A11.exe"
+      ], 
+      "revoked": [
+        "A12 ,A12", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717534M/1/3350A12.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-3390-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-3390-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04694149M/1/Latitude_3390_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2018-01-18T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04746963M/1/Latitude_3390_1.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-3379-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-3379-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.19 ,1.0.19", 
+        "2017-11-30T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04627619M/1/Latitude_3379_1.0.19.exe"
+      ], 
+      "revoked": [
+        "1.0.21 ,1.0.21", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04710642M/1/Latitude_3379_1.0.21.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-14-5459-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-14-5459-laptop/drivers", 
+      "current": [
+        "1.1.1 ,1.1.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04564697M/1/5459_111.EXE"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2017-12-27T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04731884M/1/5459_113.EXE"
+      ]
+    }
+  }, 
+  {
+    "vostro-15-3568-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-15-3568-laptop/drivers", 
+      "current": [
+        "2.0.4 ,2.0.4", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04657038M/1/Vostro_3468_3568_2.0.4.exe"
+      ], 
+      "revoked": [
+        "2.1.5 ,2.1.5", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04720331M/1/Vostro_3468_3568_2.1.5.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-15-9560-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-15-9560-laptop/drivers", 
+      "current": [
+        "1.6.2 ,1.6.2", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04666188M/1/XPS_15_9560_1.6.2.exe"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2017-12-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04724740M/1/XPS_15_9560_1.7.0.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-15-9550-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-15-9550-laptop/drivers", 
+      "current": [
+        "1.5.1 ,1.5.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04604618M/1/XPS_9550_1.5.1.exe"
+      ], 
+      "revoked": [
+        "1.6.1 ,1.6.1", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717493M/1/XPS_9550_1.6.1.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-13-9360-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-13-9360-laptop/drivers", 
+      "current": [
+        "2.4.2 ,2.4.2", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04672207M/1/XPS_9360_2.4.2.exe"
+      ], 
+      "revoked": [
+        "2.5.0 ,2.5.0", 
+        "2017-12-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717709M/1/XPS_9360_2.5.0.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-13-9365-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-13-9365-2-in-1-laptop/drivers", 
+      "current": [
+        "1.1.0 ,1.1.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04596844M/1/XPS_9365_1_1_0.exe"
+      ], 
+      "revoked": [
+        "1.2.1 ,1.2.1", 
+        "2017-12-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04727647M/1/XPS_9365_1_2_1.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-t440": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t440/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-20T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04612973M/1/BIOS_DT5JM_WN64_1.2.11.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04708892M/1/BIOS_3V387_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t630": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t630/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636775M/2/BIOS_C02RW_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714624M/2/BIOS_3V9M0_WN64_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "chengming-3977-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/chengming-3977-desktop/drivers", 
+      "current": [
+        "1.2.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04505755M/1/ChengMing_3977_1.2.0.exe"
+      ], 
+      "revoked": [
+        "1.3.2", 
+        "2017-12-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716987M/1/ChengMing_3977_1.3.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3653-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/vostro-3653-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "chengming-3967-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/chengming-3967-desktop/drivers", 
+      "current": [
+        "1.1.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04505735M/1/ChengMing_3967_1.1.0.exe"
+      ], 
+      "revoked": [
+        "1.2.2", 
+        "2017-12-19T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04701326M/1/ChengMing_3967_1.2.2.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-7920r-workstation": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/precision-7920r-workstation/drivers", 
+      "current": [
+        "1.2.11", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04610506M/2/BIOS_79GKV_LN_1.2.11_01.BIN.sign"
+      ], 
+      "revoked": [
+        "1.2.71", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706591M/4/BIOS_MDR7V_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "inspiron-3650-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/inspiron-3650-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998865M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737662M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3650-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/vostro-3650-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-3250-small-desktop": {
+      "url": "http://www.dell.com/support/home/us/en/04/product-support/product/inspiron-3250-small-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998865M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737662M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-xlr730": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlr730/drivers", 
+      "current": [
+        "2.5.5 ,2.5.5", 
+        "2017-11-15T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04490194M/1/BIOS_Y4Y95_WN32_2.5.5.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706292M/5/BIOS_78R68_WN32_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r740-xl": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r740-xl/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-20T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04610504M/2/BIOS_79GKV_WN64_1.2.11_01.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706591M/4/BIOS_MDR7V_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t640-xl": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t640-xl/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04614266M/1/BIOS_T21X5_WN64_1.2.11.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707544M/4/BIOS_6H61W_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-xlr330": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlr330/drivers", 
+      "current": [
+        "2.3.2 ,2.3.2", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04665233M/3/BIOS_832M2_WN32_2.3.2_02.EXE"
+      ], 
+      "revoked": [
+        "2.4.1 ,2.4.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716268M/2/BIOS_GK72X_WN32_2.4.1.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t330": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t330/drivers", 
+      "current": [
+        "2.3.2 ,2.3.2", 
+        "2017-11-21T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04665240M/3/BIOS_832M2_WN64_2.3.2_02.EXE"
+      ], 
+      "revoked": [
+        "2.4.1 ,2.4.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04716275M/2/BIOS_GK72X_WN64_2.4.1.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t430": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t430/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636803M/2/BIOS_1KYYX_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714785M/2/BIOS_W8YFD_WN64_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r830": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r830/drivers", 
+      "current": [
+        "1.6.0 ,1.6.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636755M/2/BIOS_MRFGP_WN64_1.6.0.EXE"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714877M/3/BIOS_JTCJJ_WN64_1.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-r730xd": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-r730xd/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04667062M/1/BIOS_KGTJ5_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04706285M/5/BIOS_78R68_WN64_2.7.0.EXE"
+      ]
+    }
+  }, 
+  {
+    "inspiron-17-5770-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-17-5770-laptop/drivers", 
+      "current": [
+        "1.0.6 ,1.0.6", 
+        "2017-11-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04643899M/1/Inspiron5570_5770_106.exe"
+      ], 
+      "revoked": [
+        "1.0.9 ,1.0.9", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737244M/1/Inspiron5570_5770_109.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-13-5370-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-13-5370-laptop/drivers", 
+      "current": [
+        "1.2.1 ,1.2.1", 
+        "2017-12-07T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679125M/1/Inspiron5370_Vostro5370_5471_BIOS_v1_2_1_x64.exe"
+      ], 
+      "revoked": [
+        "1.3.1 ,1.3.1", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737383M/1/Inspiron5370_Vostro5370_5471_BIOS_v1_3_1_x64.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-xlt7920": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-xlt7920/drivers", 
+      "current": [
+        "1.1.5 ,1.1.5", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04669577M/1/7X20T_1.1.5.exe"
+      ], 
+      "revoked": [
+        "1.2.2 ,1.2.2", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04704051M/1/7X20T_1.2.2.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-3250-small-desktop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-3250-small-desktop/drivers", 
+      "current": [
+        "3.3.7", 
+        "2017-11-06T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER03998839M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.3.7.exe"
+      ], 
+      "revoked": [
+        "3.5.2 ,3.5.2", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737560M/1/Inspiron_3650_3250_Vostro_3650_3653_3250_3.5.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-17-7778-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-17-7778-2-in-1-laptop/drivers", 
+      "current": [
+        "1.14.0 ,1.14.0", 
+        "2017-11-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04546489M/1/Inspiron_5368_7368_5568_7569_7778_1.14.0.exe"
+      ], 
+      "revoked": [
+        "1.15.2 ,1.15.2", 
+        "2017-12-27T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707367M/1/Inspiron_5368_7368_5568_7569_7778_1.15.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-7577-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-7577-laptop/drivers", 
+      "current": [
+        "1.2.0 ,1.2.0", 
+        "2017-11-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04641299M/1/Insprion_7577_Vostro_7570_1.2.0.exe"
+      ], 
+      "revoked": [
+        "1.3.2 ,1.3.2", 
+        "2018-01-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04730696M/1/Insprion_7577_Vostro_7570_1.3.2.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-7572-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-7572-laptop/drivers", 
+      "current": [
+        "1.0.7 ,1.0.7", 
+        "2017-11-16T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04643147M/1/Inspiron_7472_7572_1.0.7.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2018-01-09T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04736831M/1/Inspiron_7472_7572_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-15-7520-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/precision-15-7520-laptop/drivers", 
+      "current": [
+        "1.8.4 ,1.8.4", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04701306M/1/Precision_7x20_1.8.4.exe"
+      ], 
+      "revoked": [
+        "1.9.0 ,1.9.0", 
+        "2017-12-25T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718232M/1/Precision_7x20_1.9.0.exe"
+      ]
+    }
+  }, 
+  {
+    "precision-m5510-workstation": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/precision-m5510-workstation/drivers", 
+      "current": [
+        "1.5.1 ,1.5.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04604692M/1/Precision_5510_1.5.1.exe"
+      ], 
+      "revoked": [
+        "1.6.1 ,1.6.1", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717531M/1/Precision_5510_1.6.1.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-15-3567-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-15-3567-laptop/drivers", 
+      "current": [
+        "2.1.2 ,2.1.2", 
+        "2017-12-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04650310M/1/Inspiron_3467_3567_2.1.2.exe"
+      ], 
+      "revoked": [
+        "2.1.3 ,2.1.3", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718179M/1/Inspiron_3467_3567_2.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "inspiron-14-3476-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/inspiron-14-3476-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-15T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04683644M/1/Vostro_3478_3578_Inspiron_3476_3576_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2018-01-18T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04723015M/1/Vostro_3478_3578_Inspiron_3476_3576_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7490-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7490-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-03T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04589338M/1/Latitude_7x90_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.2.6 ,1.2.6", 
+        "2018-01-09T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04753926M/1/Latitude_7x90_1.2.6.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7480-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7480-laptop/drivers", 
+      "current": [
+        "1.7.3 ,1.7.3", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04651314M/1/Latitude_7x80_1.7.3.exe"
+      ], 
+      "revoked": [
+        "1.8.1 ,1.8.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718492M/1/Latitude_7x80_1.8.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-7389-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-7389-2-in-1-laptop/drivers", 
+      "current": [
+        "1.9.1 ,1.9.1", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04671578M/1/Latitude_7389_1.9.1.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718985M/1/Latitude_7389_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-14-7414-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-14-7414-laptop/drivers", 
+      "current": [
+        "1.14.0 ,1.14.0", 
+        "2017-10-31T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04593057M/1/Latitude_7414_7214_5414_Rugged_1.14.0.exe"
+      ], 
+      "revoked": [
+        "1.15.0 ,1.15.0", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04707797M/1/Latitude_7414_7214_5414_Rugged_1.15.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-7390-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-7390-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04690149M/1/Latitude_7390_2in1_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2018-01-10T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04758300M/1/Latitude_7390_2in1_1.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-7285-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-7285-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.3 ,1.0.3", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04358089M/1/Latitude_7285_1.0.3.exe"
+      ], 
+      "revoked": [
+        "1.1.0 ,1.1.0", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04710171M/1/Latitude_7285_1.1.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-7212-tablet": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-7212-tablet/drivers", 
+      "current": [
+        "1.5.0 ,1.5.0", 
+        "2017-12-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04660118M/1/Latitude_7212_RuggedTablet_1.5.0.exe"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04739344M/1/Latitude_7212_RuggedTablet_1.7.0.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-15-5580-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-15-5580-laptop/drivers", 
+      "current": [
+        "1.7.5 ,1.7.5", 
+        "2017-12-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04653804M/1/Latitude_5X80_Precision_3520_1.7.5.exe"
+      ], 
+      "revoked": [
+        "1.8.1 ,1.8.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718730M/1/Latitude_5X80_Precision_3520_1.8.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-12-5289-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-12-5289-2-in-1-laptop/drivers", 
+      "current": [
+        "1.9.1 ,1.9.1", 
+        "2017-12-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04671568M/1/Latitude_5289_1.9.1.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2017-12-22T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04718963M/1/Latitude_5289_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3570-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3570-laptop/drivers", 
+      "current": [
+        "1.9.0 ,1.9.0", 
+        "2017-11-16T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04651290M/1/Latitude_3479_3570_1.9.0.exe"
+      ], 
+      "revoked": [
+        "1.10.1 ,1.10.1", 
+        "2018-01-08T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04737349M/1/Latitude_3470_3570_1.10.1.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3560-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3560-laptop/drivers", 
+      "current": [
+        "A11 ,A11", 
+        "2017-11-30T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679473M/1/Latitude_3460_3560_A11.exe"
+      ], 
+      "revoked": [
+        "A12 ,A12", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717437M/1/Latitude_3460_3560_A12.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3340-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3340-laptop/drivers", 
+      "current": [
+        "A14 ,A14", 
+        "2017-12-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04681280M/1/3340A14.exe"
+      ], 
+      "revoked": [
+        "A15 ,A15", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04720226M/1/3340A15.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-3350-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-3350-laptop/drivers", 
+      "current": [
+        "A11 ,A11", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04679260M/1/3350A11.exe"
+      ], 
+      "revoked": [
+        "A12 ,A12", 
+        "2018-01-11T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717534M/1/3350A12.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-3390-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-3390-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.0 ,1.0.0", 
+        "2018-01-17T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04694149M/1/Latitude_3390_1.0.0.exe"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2018-01-18T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04746963M/1/Latitude_3390_1.1.3.exe"
+      ]
+    }
+  }, 
+  {
+    "latitude-13-3379-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/latitude-13-3379-2-in-1-laptop/drivers", 
+      "current": [
+        "1.0.19 ,1.0.19", 
+        "2017-11-30T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04627619M/1/Latitude_3379_1.0.19.exe"
+      ], 
+      "revoked": [
+        "1.0.21 ,1.0.21", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04710642M/1/Latitude_3379_1.0.21.exe"
+      ]
+    }
+  }, 
+  {
+    "vostro-14-5459-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-14-5459-laptop/drivers", 
+      "current": [
+        "1.1.1 ,1.1.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04564697M/1/5459_111.EXE"
+      ], 
+      "revoked": [
+        "1.1.3 ,1.1.3", 
+        "2017-12-27T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04731884M/1/5459_113.EXE"
+      ]
+    }
+  }, 
+  {
+    "vostro-15-3568-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/vostro-15-3568-laptop/drivers", 
+      "current": [
+        "2.0.4 ,2.0.4", 
+        "2017-11-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04657038M/1/Vostro_3468_3568_2.0.4.exe"
+      ], 
+      "revoked": [
+        "2.1.5 ,2.1.5", 
+        "2018-01-02T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04720331M/1/Vostro_3468_3568_2.1.5.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-15-9560-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-15-9560-laptop/drivers", 
+      "current": [
+        "1.6.2 ,1.6.2", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04666188M/1/XPS_15_9560_1.6.2.exe"
+      ], 
+      "revoked": [
+        "1.7.0 ,1.7.0", 
+        "2017-12-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04724740M/1/XPS_15_9560_1.7.0.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-15-9550-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-15-9550-laptop/drivers", 
+      "current": [
+        "1.5.1 ,1.5.1", 
+        "2017-11-14T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04604618M/1/XPS_9550_1.5.1.exe"
+      ], 
+      "revoked": [
+        "1.6.1 ,1.6.1", 
+        "2017-12-23T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717493M/1/XPS_9550_1.6.1.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-13-9360-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-13-9360-laptop/drivers", 
+      "current": [
+        "2.4.2 ,2.4.2", 
+        "2017-12-12T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04672207M/1/XPS_9360_2.4.2.exe"
+      ], 
+      "revoked": [
+        "2.5.0 ,2.5.0", 
+        "2017-12-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04717709M/1/XPS_9360_2.5.0.exe"
+      ]
+    }
+  }, 
+  {
+    "xps-13-9365-2-in-1-laptop": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/xps-13-9365-2-in-1-laptop/drivers", 
+      "current": [
+        "1.1.0 ,1.1.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04596844M/1/XPS_9365_1_1_0.exe"
+      ], 
+      "revoked": [
+        "1.2.1 ,1.2.1", 
+        "2017-12-28T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04727647M/1/XPS_9365_1_2_1.exe"
+      ]
+    }
+  }, 
+  {
+    "oth-t440": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t440/drivers", 
+      "current": [
+        "1.2.11 ,1.2.11", 
+        "2017-11-20T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04612973M/1/BIOS_DT5JM_WN64_1.2.11.EXE"
+      ], 
+      "revoked": [
+        "1.2.71 ,1.2.71", 
+        "2018-01-05T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04708892M/1/BIOS_3V387_WN64_1.2.71.EXE"
+      ]
+    }
+  }, 
+  {
+    "oth-t630": {
+      "url": "http://www.dell.com/support/home/ar/es/arbsdt1/product-support/product/oth-t630/drivers", 
+      "current": [
+        "2.6.0 ,2.6.0", 
+        "2017-11-29T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04636775M/2/BIOS_C02RW_WN64_2.6.0.EXE"
+      ], 
+      "revoked": [
+        "2.7.0 ,2.7.0", 
+        "2018-01-13T00:00:00.000Z", 
+        "https://downloads.dell.com/FOLDER04714624M/2/BIOS_3V9M0_WN64_2.7.0.EXE"
+      ]
+    }
+  }
+] [0m
