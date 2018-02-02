@@ -1,10 +1,10 @@
-List of the firmware updates revoked by vendors, suspicion of unstable Spectre2 fixes. 
+UEFI firmware update packages which were removed by OEM vendors, probably because of faulty microcode updates for Spectre variant 2 (CVE-2017-5715).
 
 
-Manufacturer | JSON file(s) | Number of firmware packages
------------- | ------------ | -------------------------
-Dell | dell.json | 98
-Lenovo| lenovo.json | 243
+OEM | Number of UEFI updates
+------------ | -------------------------
+Dell | 98
+Lenovo| 243
 
 Dell system with firmware updates revoked by vendors:
 
